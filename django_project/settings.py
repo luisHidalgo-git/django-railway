@@ -138,4 +138,4 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 ALLOWED_HOSTS = ['*']
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-95e21.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-c91e.up.railway.app']
